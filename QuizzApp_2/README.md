@@ -40,8 +40,7 @@ The application uses several methods to create an engaging console experience:
 - **wait**: Pauses execution for a specified duration.
 
 ## Demo Video of Display functionality
-
- [link to the demo video](Output/Staring_animation.mp4). This video showcases the app's functionality, including question management, helplines, and console displays.
+ [link to the demo video](Output/Staring_animation.mp4). This video showcases the app's functionality of console displays
 
 ## PDF of Output
 
