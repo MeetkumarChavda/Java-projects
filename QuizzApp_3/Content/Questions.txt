@@ -1,0 +1,2074 @@
+**Question:** What is the capital of France?
+   **Options:**
+   A) Paris
+   B) London
+   C) Berlin
+   D) Madrid
+   **Correct Answer:** A) Paris
+   **Category:** Geography
+   **Difficulty Level:** Medium
+
+**Question:** Who wrote the play "Romeo and Juliet"?
+   **Options:**
+   A) William Shakespeare
+   B) Charles Dickens
+   C) Jane Austen
+   D) F. Scott Fitzgerald
+   **Correct Answer:** A) William Shakespeare
+   **Category:** Literature
+   **Difficulty Level:** Medium
+
+**Question:** What is the chemical symbol for gold?
+   **Options:**
+   A) Go
+   B) Au
+   C) Ag
+   D) Ge
+   **Correct Answer:** B) Au
+   **Category:** Science
+   **Difficulty Level:** Easy
+
+**Question:** In which year did Christopher Columbus first arrive in the Americas?
+   **Options:**
+   A) 1492
+   B) 1620
+   C) 1776
+   D) 1812
+   **Correct Answer:** A) 1492
+   **Category:** History
+   **Difficulty Level:** Medium
+
+**Question:** What is the largest planet in our solar system?
+   **Options:**
+   A) Earth
+   B) Mars
+   C) Jupiter
+   D) Saturn
+   **Correct Answer:** C) Jupiter
+   **Category:** Science
+   **Difficulty Level:** Easy
+
+**Question:** Who is known as the father of modern physics?
+   **Options:**
+   A) Isaac Newton
+   B) Albert Einstein
+   C) Galileo Galilei
+   D) Stephen Hawking
+   **Correct Answer:** B) Albert Einstein
+   **Category:** Science
+   **Difficulty Level:** Medium
+
+**Question:** What is the national flower of Japan?
+   **Options:**
+   A) Rose
+   B) Tulip
+   C) Sakura (Cherry Blossom)
+   D) Orchid
+   **Correct Answer:** C) Sakura (Cherry Blossom)
+   **Category:** Geography
+   **Difficulty Level:** Easy
+
+**Question:** Who painted the Mona Lisa?
+   **Options:**
+   A) Pablo Picasso
+   B) Vincent van Gogh
+   C) Leonardo da Vinci
+   D) Michelangelo
+   **Correct Answer:** C) Leonardo da Vinci
+   **Category:** Art
+   **Difficulty Level:** Medium
+
+**Question:** Which gas do plants absorb from the atmosphere during photosynthesis?
+   **Options:**
+   A) Oxygen
+   B) Carbon dioxide
+   C) Nitrogen
+   D) Hydrogen
+   **Correct Answer:** B) Carbon dioxide
+   **Category:** Science
+   **Difficulty Level:** Easy
+
+**Question:** Who was the first woman to fly solo across the Atlantic Ocean?
+    **Options:**
+    A) Amelia Earhart
+    B) Bessie Coleman
+    C) Harriet Quimby
+    D) Jacqueline Cochran
+    **Correct Answer:** A) Amelia Earhart
+    **Category:** History
+    **Difficulty Level:** Medium
+
+**Question:** Which planet is known as the "Red Planet"?
+    **Options:**
+    A) Venus
+    B) Mars
+    C) Jupiter
+    D) Saturn
+    **Correct Answer:** B) Mars
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** Who is the author of "To Kill a Mockingbird"?
+    **Options:**
+    A) J.K. Rowling
+    B) George Orwell
+    C) Harper Lee
+    D) F. Scott Fitzgerald
+    **Correct Answer:** C) Harper Lee
+    **Category:** Literature
+    **Difficulty Level:** Medium
+
+**Question:** What is the largest mammal on Earth?
+    **Options:**
+    A) Elephant
+    B) Blue Whale
+    C) Giraffe
+    D) Polar Bear
+    **Correct Answer:** B) Blue Whale
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** In which country is the Great Wall located?
+    **Options:**
+    A) India
+    B) China
+    C) Egypt
+    D) Peru
+    **Correct Answer:** B) China
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Who is the famous playwright known for "Hamlet" and "Macbeth"?
+    **Options:**
+    A) George Bernard Shaw
+    B) William Shakespeare
+    C) Anton Chekhov
+    D) Tennessee Williams
+    **Correct Answer:** B) William Shakespeare
+    **Category:** Literature
+    **Difficulty Level:** Medium
+
+**Question:** What is the chemical symbol for oxygen?
+    **Options:**
+    A) O
+    B) Ox
+    C) Oz
+    D) Oy
+    **Correct Answer:** A) O
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** Which continent is known as the "Land Down Under"?
+    **Options:**
+    A) Africa
+    B) South America
+    C) Australia
+    D) Asia
+    **Correct Answer:** C) Australia
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Who is the first woman to win a Nobel Prize?
+    **Options:**
+    A) Marie Curie
+    B) Florence Nightingale
+    C) Mother Teresa
+    D) Jane Goodall
+    **Correct Answer:** A) Marie Curie
+    **Category:** History
+    **Difficulty Level:** Medium
+
+**Question:** What gas do plants release during photosynthesis?
+    **Options:**
+    A) Oxygen
+    B) Carbon dioxide
+    C) Nitrogen
+    D) Methane
+    **Correct Answer:** A) Oxygen
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** Who painted the "Starry Night"?
+    **Options:**
+    A) Vincent van Gogh
+    B) Pablo Picasso
+    C) Leonardo da Vinci
+    D) Michelangelo
+    **Correct Answer:** A) Vincent van Gogh
+    **Category:** Art
+    **Difficulty Level:** Medium
+
+**Question:** What is the chemical symbol for water?
+    **Options:**
+    A) H2O
+    B) CO2
+    C) O2
+    D) CH4
+    **Correct Answer:** A) H2O
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** Who is known as the "Father of Modern Philosophy"?
+    **Options:**
+    A) Aristotle
+    B) Socrates
+    C) René Descartes
+    D) Immanuel Kant
+    **Correct Answer:** C) René Descartes
+    **Category:** Philosophy
+    **Difficulty Level:** Medium
+
+**Question:** Which gas is responsible for the green color of leaves?
+    **Options:**
+    A) Oxygen
+    B) Carbon dioxide
+    C) Chlorophyll
+    D) Hydrogen
+    **Correct Answer:** C) Chlorophyll
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** In which country is the city of Cairo located?
+    **Options:**
+    A) Saudi Arabia
+    B) Egypt
+    C) Greece
+    D) Turkey
+    **Correct Answer:** B) Egypt
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Who wrote "Pride and Prejudice"?
+    **Options:**
+    A) Charles Dickens
+    B) Emily Brontë
+    C) Jane Austen
+    D) Leo Tolstoy
+    **Correct Answer:** C) Jane Austen
+    **Category:** Literature
+    **Difficulty Level:** Medium
+
+**Question:** What is the chemical symbol for carbon?
+    **Options:**
+    A) Ca
+    B) Cb
+    C) Co
+    D) C
+    **Correct Answer:** D) C
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** What is the largest desert in the world?
+    **Options:**
+    A) Sahara Desert
+    B) Gobi Desert
+    C) Atacama Desert
+    D) Antarctic Desert
+    **Correct Answer:** A) Sahara Desert
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Who is the author of "The Catcher in the Rye"?
+    **Options:**
+    A) J.D. Salinger
+    B) Ernest Hemingway
+    C) Mark Twain
+    D) F. Scott Fitzgerald
+    **Correct Answer:** A) J.D. Salinger
+    **Category:** Literature
+    **Difficulty Level:** Medium
+
+**Question:** What gas do humans exhale when they breathe out?
+    **Options:**
+    A) Carbon dioxide
+    B) Oxygen
+    C) Nitrogen
+    D) Hydrogen
+    **Correct Answer:** A) Carbon dioxide
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** Who is the famous scientist known for the theory of relativity?
+    **Options:**
+    A) Isaac Newton
+    B) Albert Einstein
+    C) Galileo Galilei
+    D) Stephen Hawking
+    **Correct Answer:** B) Albert Einstein
+    **Category:** Science
+    **Difficulty Level:** Medium
+
+**Question:** What is the currency of Japan?
+    **Options:**
+    A) Yen
+    B) Dollar
+    C) Euro
+    D) Rupee
+    **Correct Answer:** A) Yen
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** What gas makes up the majority of Earth's atmosphere?
+    **Options:**
+    A) Oxygen
+    B) Carbon dioxide
+    C) Nitrogen
+    D) Hydrogen
+    **Correct Answer:** C) Nitrogen
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** Which planet is known as the "Red Planet"?
+    **Options:**
+    A) Venus
+    B) Mars
+    C) Jupiter
+    D) Saturn
+    **Correct Answer:** B) Mars
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** What is the chemical symbol for gold?
+    **Options:**
+    A) Go
+    B) Au
+    C) Ag
+    D) Ge
+    **Correct Answer:** B) Au
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** In which year did Christopher Columbus first arrive in the Americas?
+    **Options:**
+    A) 1492
+    B) 1620
+    C) 1776
+    D) 1812
+    **Correct Answer:** A) 1492
+    **Category:** History
+    **Difficulty Level:** Medium
+
+**Question:** What is the largest planet in our solar system?
+    **Options:**
+    A) Earth
+    B) Mars
+    C) Jupiter
+    D) Saturn
+    **Correct Answer:** C) Jupiter
+    **Category:** Science
+    **Difficulty Level:** Easy
+
+**Question:** Who is known as the father of modern physics?
+    **Options:**
+    A) Isaac Newton
+    B) Albert Einstein
+    C) Galileo Galilei
+    D) Stephen Hawking
+    **Correct Answer:** B) Albert Einstein
+    **Category:** Science
+    **Difficulty Level:** Medium
+
+**Question:** What is the national flower of Japan?
+    **Options:**
+    A) Rose
+    B) Tulip
+    C) Sakura (Cherry Blossom)
+    D) Orchid
+    **Correct Answer:** C) Sakura (Cherry Blossom)
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** What is the chemical symbol for potassium?
+    **Options:**
+    A) Po
+    B) Ko
+    C) K
+    D) Pt
+    **Correct Answer:** C) K
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** Who is the author of "War and Peace"?
+    **Options:**
+    A) Charles Dickens
+    B) Fyodor Dostoevsky
+    C) Leo Tolstoy
+    D) Victor Hugo
+    **Correct Answer:** C) Leo Tolstoy
+    **Category:** Literature
+    **Difficulty Level:** Hard
+
+**Question:** What is the speed of light in a vacuum?
+    **Options:**
+    A) 299,792,458 meters per second
+    B) 3,000,000 meters per second
+    C) 30,000,000 meters per second
+    D) 299,792 meters per second
+    **Correct Answer:** A) 299,792,458 meters per second
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** In which year did the French Revolution begin?
+    **Options:**
+    A) 1776
+    B) 1789
+    C) 1804
+    D) 1848
+    **Correct Answer:** B) 1789
+    **Category:** History
+    **Difficulty Level:** Hard
+
+**Question:** What is the chemical symbol for silver?
+    **Options:**
+    A) Si
+    B) Sv
+    C) Ag
+    D) Al
+    **Correct Answer:** C) Ag
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** Who is known for the theory of general relativity?
+    **Options:**
+    A) Isaac Newton
+    B) Albert Einstein
+    C) Galileo Galilei
+    D) Stephen Hawking
+    **Correct Answer:** B) Albert Einstein
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** Which element has the atomic number 26?
+    **Options:**
+    A) Iron (Fe)
+    B) Copper (Cu)
+    C) Silver (Ag)
+    D) Gold (Au)
+    **Correct Answer:** A) Iron (Fe)
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** What is the capital of Russia?
+    **Options:**
+    A) St. Petersburg
+    B) Kiev
+    C) Moscow
+    D) Warsaw
+    **Correct Answer:** C) Moscow
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** Who is the Greek philosopher known for the theory of forms and the allegory of the cave?
+    **Options:**
+    A) Aristotle
+    B) Socrates
+    C) Plato
+    D) Heraclitus
+    **Correct Answer:** C) Plato
+    **Category:** Philosophy
+    **Difficulty Level:** Hard
+
+**Question:** Which gas is the most abundant in Earth's atmosphere by volume?
+    **Options:**
+    A) Oxygen
+    B) Carbon dioxide
+    C) Nitrogen
+    D) Hydrogen
+    **Correct Answer:** C) Nitrogen
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** Who is the author of "The Great Gatsby"?
+    **Options:**
+    A) J.K. Rowling
+    B) Ernest Hemingway
+    C) F. Scott Fitzgerald
+    D) George Orwell
+    **Correct Answer:** C) F. Scott Fitzgerald
+    **Category:** Literature
+    **Difficulty Level:** Hard
+
+**Question:** What is the chemical symbol for helium?
+    **Options:**
+    A) He
+    B) Hl
+    C) H
+    D) Hy
+    **Correct Answer:** A) He
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** Which famous scientist formulated the laws of motion and universal gravitation?
+    **Options:**
+    A) Isaac Newton
+    B) Albert Einstein
+    C) Galileo Galilei
+    D) Stephen Hawking
+    **Correct Answer:** A) Isaac Newton
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** What is the largest planet in the solar system?
+    **Options:**
+    A) Earth
+    B) Mars
+    C) Jupiter
+    D) Saturn
+    **Correct Answer:** C) Jupiter
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** In which year did the American Civil War begin?
+    **Options:**
+    A) 1776
+    B) 1812
+    C) 1861
+    D) 1901
+    **Correct Answer:** C) 1861
+    **Category:** History
+    **Difficulty Level:** Hard
+
+**Question:** What is the chemical symbol for uranium?
+    **Options:**
+    A) Un
+    B) Ur
+    C) U
+    D) Up
+    **Correct Answer:** C) U
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** Who is known for the theory of special relativity and the equation E=mc^2?
+    **Options:**
+    A) Isaac Newton
+    B) Albert Einstein
+    C) Galileo Galilei
+    D) Stephen Hawking
+    **Correct Answer:** B) Albert Einstein
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** Which planet is known as the "Red Planet"?
+    **Options:**
+    A) Venus
+    B) Mars
+    C) Jupiter
+    D) Saturn
+    **Correct Answer:** B) Mars
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** What is the chemical symbol for gold?
+    **Options:**
+    A) Go
+    B) Au
+    C) Ag
+    D) Ge
+    **Correct Answer:** B) Au
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** In which year did Christopher Columbus first arrive in the Americas?
+    **Options:**
+    A) 1492
+    B) 1620
+    C) 1776
+    D) 1812
+    **Correct Answer:** A) 1492
+    **Category:** History
+    **Difficulty Level:** Hard
+
+**Question:** What is the largest planet in our solar system?
+    **Options:**
+    A) Earth
+    B) Mars
+    C) Jupiter
+    D) Saturn
+    **Correct Answer:** C) Jupiter
+    **Category:** Science
+    **Difficulty Level:** Hard
+
+**Question:** What is the square root of 144?
+    **Options:**
+    A) 12
+    B) 16
+    C) 10
+    D) 14
+    **Correct Answer:** A) 12
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** Solve for x: 2x - 5 = 15.
+    **Options:**
+    A) x = 5
+    B) x = 10
+    C) x = 15
+    D) x = 20
+    **Correct Answer:** B) x = 10
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** What is the product of 7 and 9?
+    **Options:**
+    A) 45
+    B) 56
+    C) 63
+    D) 72
+    **Correct Answer:** C) 63
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** If a rectangle has a length of 8 units and a width of 6 units, what is its area?
+    **Options:**
+    A) 12 square units
+    B) 24 square units
+    C) 30 square units
+    D) 48 square units
+    **Correct Answer:** B) 24 square units
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** Simplify the expression: 3(4 + 2) - 5.
+    **Options:**
+    A) 15
+    B) 17
+    C) 21
+    D) 23
+    **Correct Answer:** C) 21
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** What is the value of π (pi) approximately equal to?
+    **Options:**
+    A) 2.71
+    B) 3.14
+    C) 3.41
+    D) 4.17
+    **Correct Answer:** B) 3.14
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** If a car travels at a constant speed of 60 miles per hour, how far will it travel in 3 hours?
+    **Options:**
+    A) 120 miles
+    B) 180 miles
+    C) 240 miles
+    D) 300 miles
+    **Correct Answer:** B) 180 miles
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** What is the next prime number after 17?
+    **Options:**
+    A) 19
+    B) 21
+    C) 23
+    D) 25
+    **Correct Answer:** A) 19
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** Solve for y: 2y + 3 = 11.
+    **Options:**
+    A) y = 4
+    B) y = 5
+    C) y = 6
+    D) y = 7
+    **Correct Answer:** B) y = 5
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** What is the result of 5 squared (5^2)?
+    **Options:**
+    A) 10
+    B) 15
+    C) 20
+    D) 25
+    **Correct Answer:** D) 25
+    **Category:** Mathematics
+    **Difficulty Level:** Medium
+
+**Question:** In which year did the Industrial Revolution begin?
+    **Options:**
+    A) 1600
+    B) 1750
+    C) 1800
+    D) 1900
+    **Correct Answer:** B) 1750
+    **Category:** History
+    **Difficulty Level:** Very Hard
+
+**Question:** Who is the author of "The Odyssey"?
+    **Options:**
+    A) Homer
+    B) Virgil
+    C) Sophocles
+    D) Plato
+    **Correct Answer:** A) Homer
+    **Category:** Literature
+    **Difficulty Level:** Very Hard
+
+**Question:** What is the chemical symbol for tungsten?
+    **Options:**
+    A) Tu
+    B) Tg
+    C) W
+    D) Ts
+    **Correct Answer:** C) W
+    **Category:** Science
+    **Difficulty Level:** Very Hard
+
+**Question:** Which planet has the largest number of moons in our solar system?
+    **Options:**
+    A) Earth
+    B) Mars
+    C) Jupiter
+    D) Saturn
+    **Correct Answer:** C) Jupiter
+    **Category:** Science
+    **Difficulty Level:** Very Hard
+
+**Question:** Who is the architect of the Statue of Liberty's iron framework?
+    **Options:**
+    A) Gustave Eiffel
+    B) Frank Lloyd Wright
+    C) Antoni Gaudí
+    D) I. M. Pei
+    **Correct Answer:** A) Gustave Eiffel
+    **Category:** History
+    **Difficulty Level:** Very Hard
+
+**Question:** What is the capital of Australia?
+    **Options:**
+    A) Sydney
+    B) Melbourne
+    C) Canberra
+    D) Brisbane
+    **Correct Answer:** C) Canberra
+    **Category:** Geography
+    **Difficulty Level:** Very Hard
+
+**Question:** Who is known for the theory of relativity and the equation E=mc^2?
+    **Options:**
+    A) Isaac Newton
+    B) Albert Einstein
+    C) Galileo Galilei
+    D) Stephen Hawking
+    **Correct Answer:** B) Albert Einstein
+    **Category:** Science
+    **Difficulty Level:** Very Hard
+
+**Question:** What is the largest internal organ in the human body?
+    **Options:**
+    A) Brain
+    B) Heart
+    C) Liver
+    D) Lungs
+    **Correct Answer:** C) Liver
+    **Category:** Science
+    **Difficulty Level:** Very Hard
+
+**Question:** Who was the first person to set foot on the moon?
+    **Options:**
+    A) Yuri Gagarin
+    B) Neil Armstrong
+    C) Buzz Aldrin
+    D) John Glenn
+    **Correct Answer:** B) Neil Armstrong
+    **Category:** History
+    **Difficulty Level:** Very Hard
+
+**Question:** What is the chemical symbol for platinum?
+    **Options:**
+    A) Pl
+    B) Pt
+    C) Pb
+    D) Pm
+    **Correct Answer:** B) Pt
+    **Category:** Science
+    **Difficulty Level:** Very Hard
+
+**Question:** What is the capital of France?
+    **Options:**
+    A) Berlin
+    B) London
+    C) Paris
+    D) Madrid
+    **Correct Answer:** C) Paris
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Which continent is known as the "Land Down Under"?
+    **Options:**
+    A) South America
+    B) Europe
+    C) Africa
+    D) Australia
+    **Correct Answer:** D) Australia
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** What is the largest ocean in the world?
+    **Options:**
+    A) Indian Ocean
+    B) Atlantic Ocean
+    C) Pacific Ocean
+    D) Arctic Ocean
+    **Correct Answer:** C) Pacific Ocean
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Which river is the longest in the world?
+    **Options:**
+    A) Nile River
+    B) Amazon River
+    C) Mississippi River
+    D) Danube River
+    **Correct Answer:** A) Nile River
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** What is the capital of Japan?
+    **Options:**
+    A) Beijing
+    B) Tokyo
+    C) Seoul
+    D) Bangkok
+    **Correct Answer:** B) Tokyo
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Which country is known as the "Land of the Rising Sun"?
+    **Options:**
+    A) South Korea
+    B) China
+    C) Japan
+    D) Thailand
+    **Correct Answer:** C) Japan
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** What is the largest desert in the world?
+    **Options:**
+    A) Sahara Desert
+    B) Gobi Desert
+    C) Atacama Desert
+    D) Kalahari Desert
+    **Correct Answer:** A) Sahara Desert
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Which country is known for the pyramids of Giza?
+    **Options:**
+    A) Greece
+    B) Turkey
+    C) Egypt
+    D) Italy
+    **Correct Answer:** C) Egypt
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Which mountain range is the highest in the world?
+    **Options:**
+    A) Andes Mountains
+    B) Rocky Mountains
+    C) Alps
+    D) Himalayas
+    **Correct Answer:** D) Himalayas
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Which country is famous for its fjords?
+    **Options:**
+    A) Iceland
+    B) Canada
+    C) Norway
+    D) New Zealand
+    **Correct Answer:** C) Norway
+    **Category:** Geography
+    **Difficulty Level:** Easy
+
+**Question:** Which European city is divided into two parts by the Bosphorus Strait?
+    **Options:**
+    A) Athens
+    B) Istanbul
+    C) Lisbon
+    D) Vienna
+    **Correct Answer:** B) Istanbul
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Which African country is known as the "Rainbow Nation"?
+    **Options:**
+    A) Kenya
+    B) Nigeria
+    C) South Africa
+    D) Ghana
+    **Correct Answer:** C) South Africa
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** What is the world's second-largest continent by land area?
+    **Options:**
+    A) Asia
+    B) Africa
+    C) North America
+    D) South America
+    **Correct Answer:** B) Africa
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Which river flows through the Grand Canyon in the United States?
+    **Options:**
+    A) Colorado River
+    B) Mississippi River
+    C) Hudson River
+    D) Missouri River
+    **Correct Answer:** A) Colorado River
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Which country is both in Europe and Asia?
+    **Options:**
+    A) Turkey
+    B) Russia
+    C) Greece
+    D) Italy
+    **Correct Answer:** A) Turkey
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** What is the largest lake in Africa by surface area?
+    **Options:**
+    A) Lake Chad
+    B) Lake Tanganyika
+    C) Lake Victoria
+    D) Lake Malawi
+    **Correct Answer:** C) Lake Victoria
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Which U.S. state is known as the "Sunshine State"?
+    **Options:**
+    A) California
+    B) Florida
+    C) Texas
+    D) Arizona
+    **Correct Answer:** B) Florida
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Which ocean is located to the west of Africa?
+    **Options:**
+    A) Atlantic Ocean
+    B) Indian Ocean
+    C) Pacific Ocean
+    D) Southern Ocean
+    **Correct Answer:** A) Atlantic Ocean
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** What is the highest mountain in North America?
+    **Options:**
+    A) Mount Rainier
+    B) Mount St. Helens
+    C) Mount Denali (formerly McKinley)
+    D) Mount Hood
+    **Correct Answer:** C) Mount Denali (formerly McKinley)
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** Which city is located at the mouth of the Amazon River?
+    **Options:**
+    A) Rio de Janeiro
+    B) Manaus
+    C) Lima
+    D) Quito
+    **Correct Answer:** B) Manaus
+    **Category:** Geography
+    **Difficulty Level:** Medium
+
+**Question:** What is the capital of Uzbekistan?
+    **Options:**
+    A) Tashkent
+    B) Bishkek
+    C) Dushanbe
+    D) Ashgabat
+    **Correct Answer:** A) Tashkent
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** Which African country is completely surrounded by South Africa?
+    **Options:**
+    A) Eswatini (formerly Swaziland)
+    B) Lesotho
+    C) Namibia
+    D) Botswana
+    **Correct Answer:** B) Lesotho
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** Which strait separates Russia from Alaska?
+    **Options:**
+    A) Bering Strait
+    B) English Channel
+    C) Strait of Gibraltar
+    D) Hudson Strait
+    **Correct Answer:** A) Bering Strait
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** What is the world's largest coral reef system?
+    **Options:**
+    A) Belize Barrier Reef
+    B) Great Barrier Reef
+    C) Maldives Atolls
+    D) Florida Reef
+    **Correct Answer:** B) Great Barrier Reef
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** Which country is the southernmost point of mainland Africa?
+    **Options:**
+    A) Angola
+    B) Mozambique
+    C) South Africa
+    D) Namibia
+    **Correct Answer:** C) South Africa
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** Which desert is the largest in Asia?
+    **Options:**
+    A) Gobi Desert
+    B) Arabian Desert
+    C) Thar Desert
+    D) Kalahari Desert
+    **Correct Answer:** A) Gobi Desert
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+ **Question:** In which country can you find the city of Marrakech?
+    **Options:**
+    A) Egypt
+    B) Tunisia
+    C) Morocco
+    D) Algeria
+    **Correct Answer:** C) Morocco
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** What is the capital of Kazakhstan?
+    **Options:**
+    A) Astana
+    B) Almaty
+    C) Bishkek
+    D) Tashkent
+    **Correct Answer:** A) Astana (Now known as Nur-Sultan)
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** Which sea is bordered by Italy to the west and Croatia to the east?
+    **Options:**
+    A) Ionian Sea
+    B) Tyrrhenian Sea
+    C) Adriatic Sea
+    D) Aegean Sea
+    **Correct Answer:** C) Adriatic Sea
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** What is the largest island in the Mediterranean Sea?
+    **Options:**
+    A) Sicily
+    B) Sardinia
+    C) Cyprus
+    D) Corsica
+    **Correct Answer:** A) Sicily
+    **Category:** Geography
+    **Difficulty Level:** Hard
+
+**Question:** What is the primary purpose of a stack data structure?
+    **Options:**
+    A) To retrieve data in a Last-In, First-Out (LIFO) order.
+    B) To retrieve data in a First-In, First-Out (FIFO) order.
+    C) To store data in a sorted manner.
+    D) To store data in a random order.
+    **Correct Answer:** A) To retrieve data in a Last-In, First-Out (LIFO) order.
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** In a singly linked list, what is the term used to refer to the first node in the list?
+    **Options:**
+    A) Head
+    B) Tail
+    C) Pointer
+    D) Node 1
+    **Correct Answer:** A) Head
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** What is the time complexity of inserting an element at the end of an array list?
+    **Options:**
+    A) O(1)
+    B) O(log n)
+    C) O(n)
+    D) O(n^2)
+    **Correct Answer:** A) O(1)
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** Which data structure is used to implement a queue?
+    **Options:**
+    A) Array
+    B) Linked list
+    C) Stack
+    D) Heap
+    **Correct Answer:** B) Linked list
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** What is the term for a data structure that consists of a collection of elements, each identified by an index or a key?
+    **Options:**
+    A) Set
+    B) Queue
+    C) Stack
+    D) Dictionary
+    **Correct Answer:** D) Dictionary
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** Which data structure is suitable for implementing a LIFO (Last-In, First-Out) behavior?
+    **Options:**
+    A) Queue
+    B) Linked list
+    C) Stack
+    D) Binary tree
+    **Correct Answer:** C) Stack
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** What is the primary purpose of a hash table data structure?
+    **Options:**
+    A) Sorting elements
+    B) Searching for elements
+    C) Storing key-value pairs
+    D) Implementing a queue
+    **Correct Answer:** C) Storing key-value pairs
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** Which data structure follows the FIFO (First-In, First-Out) order?
+    **Options:**
+    A) Stack
+    B) Queue
+    C) Linked list
+    D) Binary search tree
+    **Correct Answer:** B) Queue
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** What is the primary advantage of a binary search tree (BST)?
+    **Options:**
+    A) Fast insertion of elements
+    B) Fast deletion of elements
+    C) Fast searching for elements
+    D) Efficient sorting of elements
+    **Correct Answer:** C) Fast searching for elements
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** What data structure is used to implement a priority queue?
+    **Options:**
+    A) Array
+    B) Linked list
+    C) Heap
+    D) Stack
+    **Correct Answer:** C) Heap
+    **Category:** Data Structures
+    **Difficulty Level:** Easy
+
+**Question:** In a doubly linked list, how many pointers does each node have?
+    **Options:**
+    A) 0
+    B) 1
+    C) 2
+    D) 3
+    **Correct Answer:** C) 2
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What is the time complexity of finding an element in a binary search tree (BST) in the worst case?
+    **Options:**
+    A) O(1)
+    B) O(log n)
+    C) O(n)
+    D) O(n^2)
+    **Correct Answer:** B) O(log n)
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What is the main purpose of a hash collision resolution technique like chaining?
+    **Options:**
+    A) To reduce the load factor of the hash table
+    B) To increase the size of the hash table
+    C) To handle multiple keys hashing to the same location
+    D) To improve the hashing algorithm
+    **Correct Answer:** C) To handle multiple keys hashing to the same location
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** Which data structure is often used to implement a least recently used (LRU) cache?
+    **Options:**
+    A) Queue
+    B) Stack
+    C) Linked list
+    D) Heap
+    **Correct Answer:** C) Linked list
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What is the key feature of a self-balancing binary search tree (BST) like AVL or Red-Black Tree?
+    **Options:**
+    A) Fast insertion of elements
+    B) Fast searching for elements
+    C) Automatic balancing of the tree
+    D) Efficient storage of elements
+    **Correct Answer:** C) Automatic balancing of the tree
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** In a heap data structure, what is the property that ensures the parent node has a higher (or lower) value than its children?
+    **Options:**
+    A) Heapify property
+    B) Priority property
+    C) Max-Heap property
+    D) Min-Heap property
+    **Correct Answer:** D) Min-Heap property
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What data structure is often used to implement breadth-first search (BFS) in graphs?
+    **Options:**
+    A) Stack
+    B) Queue
+    C) Linked list
+    D) Binary tree
+    **Correct Answer:** B) Queue
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What is the primary purpose of a trie data structure?
+    **Options:**
+    A) Storing a collection of items with keys
+    B) Sorting elements in ascending order
+    C) Implementing a priority queue
+    D) Searching for elements in an array
+    **Correct Answer:** A) Storing a collection of items with keys
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What is the time complexity of a linear search in an unsorted array?
+    **Options:**
+    A) O(1)
+    B) O(log n)
+    C) O(n)
+    D) O(n^2)
+    **Correct Answer:** C) O(n)
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What data structure is used to efficiently check for the presence of an element in a set of unique values?
+    **Options:**
+    A) Array
+    B) Linked list
+    C) Hash table
+    D) Binary search tree
+    **Correct Answer:** C) Hash table
+    **Category:** Data Structures
+    **Difficulty Level:** Medium
+
+**Question:** What is the time complexity of finding the shortest path between two nodes in a weighted graph using Dijkstra's algorithm?
+    **Options:**
+    A) O(1)
+    B) O(log n)
+    C) O(n)
+    D) O(E + V log V), where E is the number of edges and V is the number of vertices
+    **Correct Answer:** D) O(E + V log V), where E is the number of edges and V is the number of vertices
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** What is the main advantage of using a B-tree data structure over a binary search tree (BST)?
+    **Options:**
+    A) B-trees have faster insertion and deletion operations.
+    B) B-trees have lower space complexity.
+    C) B-trees are more memory-efficient.
+    D) B-trees guarantee a balanced structure.
+    **Correct Answer:** A) B-trees have faster insertion and deletion operations.
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** In a skip list data structure, what is the purpose of the "skip" levels?
+    **Options:**
+    A) To reduce the space complexity.
+    B) To improve the worst-case time complexity.
+    C) To increase the search time.
+    D) To eliminate the need for comparison operations.
+    **Correct Answer:** B) To improve the worst-case time complexity.
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** What is the time complexity of finding the maximum element in a min-heap data structure?
+    **Options:**
+    A) O(1)
+    B) O(log n)
+    C) O(n)
+    D) O(n^2)
+    **Correct Answer:** B) O(log n)
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** What is the primary advantage of using a self-balancing binary search tree (BST) over a regular BST?
+    **Options:**
+    A) Self-balancing BSTs have faster searching operations.
+    B) Self-balancing BSTs guarantee a balanced structure.
+    C) Self-balancing BSTs use less memory.
+    D) Self-balancing BSTs have faster insertion operations.
+    **Correct Answer:** B) Self-balancing BSTs guarantee a balanced structure.
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** What is the key characteristic of a graph data structure?
+    **Options:**
+    A) Acyclic
+    B) Linear
+    C) Hierarchical
+    D) Contains vertices and edges
+    **Correct Answer:** D) Contains vertices and edges
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** What is the primary advantage of using a hash table with open addressing over separate chaining for collision resolution?
+    **Options:**
+    A) Open addressing is more memory-efficient.
+    B) Open addressing guarantees no collisions.
+    C) Open addressing avoids linked lists.
+    D) Open addressing has a constant-time worst-case lookup.
+    **Correct Answer:** D) Open addressing has a constant-time worst-case lookup.
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** In a Red-Black Tree data structure, what is the color of a newly inserted node by default?
+    **Options:**
+    A) Red
+    B) Black
+    C) Blue
+    D) Green
+    **Correct Answer:** A) Red
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** What is the primary purpose of a B+ tree data structure?
+    **Options:**
+    A) Storing key-value pairs with duplicate keys.
+    B) Efficiently searching for elements in a sorted array.
+    C) Implementing a priority queue.
+    D) Organizing data in a hierarchical manner.
+    **Correct Answer:** D) Organizing data in a hierarchical manner.
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** In computer science, what is the main advantage of using a trie data structure over other data structures like hash tables?
+    **Options:**
+    A) Tries have lower space complexity.
+    B) Tries have faster insertion operations.
+    C) Tries have efficient prefix-based searches.
+    D) Tries eliminate the need for collision resolution.
+    **Correct Answer:** C) Tries have efficient prefix-based searches.
+    **Category:** Data Structures
+    **Difficulty Level:** Hard
+
+**Question:** What is Java known for its platform independence?
+    **Options:**
+    A) Bytecode execution
+    B) Efficient memory management
+    C) Native code compilation
+    D) Multi-threading support
+    **Correct Answer:** A) Bytecode execution
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** Which keyword is used to declare a constant in Java?
+    **Options:**
+    A) final
+    B) static
+    C) constant
+    D) const
+    **Correct Answer:** A) final
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** What is the Java Virtual Machine (JVM)?
+    **Options:**
+    A) A Java compiler
+    B) A Java IDE
+    C) A runtime environment for Java bytecode
+    D) A Java package manager
+    **Correct Answer:** C) A runtime environment for Java bytecode
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** How is a Java class defined as abstract?
+    **Options:**
+    A) By using the `abstract` keyword in the class declaration
+    B) By implementing the `java.lang.Abstract` interface
+    C) By defining at least one abstract method in the class
+    D) By declaring it inside an abstract package
+    **Correct Answer:** A) By using the `abstract` keyword in the class declaration
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** What is the purpose of the `toString()` method in Java?
+    **Options:**
+    A) To convert an object to a String representation
+    B) To concatenate two Strings
+    C) To compare two objects for equality
+    D) To convert a String to an object
+    **Correct Answer:** A) To convert an object to a String representation
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** Which data type is used to represent single characters in Java?
+    **Options:**
+    A) char
+    B) int
+    C) string
+    D) byte
+    **Correct Answer:** A) char
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** What is the default value of a boolean variable in Java?
+    **Options:**
+    A) true
+    B) false
+    C) 0
+    D) 1
+    **Correct Answer:** B) false
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** How are comments in Java code indicated?
+    **Options:**
+    A) // Single-line comments
+    B) /* Multi-line comments */
+    C) <!-- HTML comments -->
+    D) # Shell comments
+    **Correct Answer:** A) // Single-line comments
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** What is the purpose of the `break` statement in Java?
+    **Options:**
+    A) To exit a loop prematurely
+    B) To skip the current iteration of a loop
+    C) To start a new loop iteration
+    D) To jump to a specific line in the code
+    **Correct Answer:** A) To exit a loop prematurely
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** Which keyword is used to create an instance of a class in Java?
+    **Options:**
+    A) new
+    B) class
+    C) instance
+    D) object
+    **Correct Answer:** A) new
+    **Category:** Java
+    **Difficulty Level:** Easy
+
+**Question:** What is the difference between `ArrayList` and `LinkedList` in Java?
+    **Options:**
+    A) `ArrayList` is a linked list, while `LinkedList` is an array list.
+    B) `ArrayList` is faster for random access, while `LinkedList` is better for frequent insertions and deletions.
+    C) `ArrayList` is immutable, while `LinkedList` is mutable.
+    D) `ArrayList` allows duplicates, while `LinkedList` does not.
+    **Correct Answer:** B) `ArrayList` is faster for random access, while `LinkedList` is better for frequent insertions and deletions.
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the purpose of the `try-catch` block in Java?
+    **Options:**
+    A) To define a new exception class
+    B) To handle exceptions and perform error recovery
+    C) To execute a block of code repeatedly
+    D) To declare a variable with exception handling capabilities
+    **Correct Answer:** B) To handle exceptions and perform error recovery
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the Java keyword used to define a subclass that inherits from a superclass?
+    **Options:**
+    A) subclass
+    B) extends
+    C) inherit
+    D) superclass
+    **Correct Answer:** B) extends
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is method overloading in Java?
+    **Options:**
+    A) Defining multiple methods with the same name but different return types.
+    B) Defining multiple methods with the same name and parameters in the same class.
+    C) Defining a method with a variable number of parameters.
+    D) Defining a method that can be overridden by a subclass.
+    **Correct Answer:** B) Defining multiple methods with the same name and parameters in the same class.
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** Which collection framework interface in Java is used to represent a set of elements with no duplicates?
+    **Options:**
+    A) `List`
+    B) `Set`
+    C) `Map`
+    D) `Queue`
+    **Correct Answer:** B) `Set`
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the purpose of the `synchronized` keyword in Java?
+    **Options:**
+    A) To make a method or block of code thread-safe
+    B) To prevent a method from being overridden
+    C) To define a static method
+    D) To declare a class as final
+    **Correct Answer:** A) To make a method or block of code thread-safe
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the difference between the `equals()` method and the `==` operator in Java?
+    **Options:**
+    A) They are the same and can be used interchangeably.
+    B) `equals()` compares the values of objects, while `==` compares the memory addresses of objects.
+    C) `equals()` is used for primitive data types, while `==` is used for objects.
+    D) `equals()` is a static method, while `==` is an instance method.
+    **Correct Answer:** B) `equals()` compares the values of objects, while `==` compares the memory addresses of objects.
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the purpose of the `this` keyword in Java?
+    **Options:**
+    A) To refer to the current class instance
+    B) To create a new object instance
+    C) To access a static method
+    D) To define a constructor
+    **Correct Answer:** A) To refer to the current class instance
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the significance of the `transient` keyword in Java?
+    **Options:**
+    A) It indicates that a variable should not be serialized.
+    B) It makes a variable constant.
+    C) It defines a variable with thread safety.
+    D) It specifies the access modifier for a variable.
+    **Correct Answer:** A) It indicates that a variable should not be serialized.
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the main purpose of the `finally` block in a `try-catch-finally` construct in Java?
+    **Options:**
+    A) To define exception classes
+    B) To catch and handle exceptions
+    C) To ensure that certain code is executed regardless of whether an exception is thrown or not
+    D) To specify the return type of a method
+    **Correct Answer:** C) To ensure that certain code is executed regardless of whether an exception is thrown or not
+    **Category:** Java
+    **Difficulty Level:** Medium
+
+**Question:** What is the difference between the `Runnable` and `Thread` classes in Java for multithreading?
+    **Options:**
+    A) There is no difference; they can be used interchangeably.
+    B) `Runnable` is an interface, while `Thread` is a class.
+    C) `Thread` is an interface, while `Runnable` is a class.
+    D) `Thread` allows more control over the thread's execution.
+    **Correct Answer:** B) `Runnable` is an interface, while `Thread` is a class.
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** What is the purpose of the `ClassCastException` in Java?
+    **Options:**
+    A) To handle I/O exceptions
+    B) To indicate that an object cannot be cast to a specific class type
+    C) To represent a null reference
+    D) To define a checked exception
+    **Correct Answer:** B) To indicate that an object cannot be cast to a specific class type
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** What is the purpose of the `assert` statement in Java?
+    **Options:**
+    A) To print debug messages
+    B) To terminate the program
+    C) To check if a condition is true and throw an exception if it's false
+    D) To define custom exceptions
+    **Correct Answer:** C) To check if a condition is true and throw an exception if it's false
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** In Java, what is a lambda expression?
+    **Options:**
+    A) A type of exception
+    B) A way to define anonymous classes
+    C) A shorthand notation for defining a functional interface implementation
+    D) A way to define inner classes
+    **Correct Answer:** C) A shorthand notation for defining a functional interface implementation
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** What is the purpose of the `java.util.concurrent` package in Java?
+    **Options:**
+    A) To provide advanced concurrency utilities
+    B) To define basic data structures like arrays and lists
+    C) To handle file I/O operations
+    D) To create graphical user interfaces (GUIs)
+    **Correct Answer:** A) To provide advanced concurrency utilities
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** Which Java feature allows you to define multiple methods with the same name in a class but with different parameters?
+    **Options:**
+    A) Inheritance
+    B) Method overloading
+    C) Method overriding
+    D) Abstract classes
+    **Correct Answer:** B) Method overloading
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** What is a Java annotation?
+    **Options:**
+    A) A type of exception
+    B) A way to declare constants
+    C) A form of documentation
+    D) A metadata attached to code elements
+    **Correct Answer:** D) A metadata attached to code elements
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** What is a Java Enum?
+    **Options:**
+    A) A class that defines methods
+    B) A data structure to store key-value pairs
+    C) A type that represents a set of predefined constants
+    D) A generic container for objects
+    **Correct Answer:** C) A type that represents a set of predefined constants
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** In Java, what is the purpose of the `volatile` keyword when applied to a variable?
+    **Options:**
+    A) To indicate that the variable's value cannot be changed
+    B) To make the variable thread-local
+    C) To ensure that changes to the variable are immediately visible to other threads
+    D) To define a constant variable
+    **Correct Answer:** C) To ensure that changes to the variable are immediately visible to other threads
+    **Category:** Java
+    **Difficulty Level:** Hard
+
+**Question:** What is multithreading?
+    **Options:**
+    A) Running multiple programs concurrently
+    B) Running multiple threads within a single process
+    C) Running multiple processes within a single thread
+    D) Running multiple threads sequentially
+    **Correct Answer:** B) Running multiple threads within a single process
+    **Category:** Multithreading
+    **Difficulty Level:** Easy
+
+**Question:** What is the primary advantage of multithreading in Java?
+    **Options:**
+    A) Improved memory management
+    B) Faster program execution
+    C) Easier exception handling
+    D) Simplified code structure
+    **Correct Answer:** B) Faster program execution
+    **Category:** Multithreading
+    **Difficulty Level:** Easy
+
+**Question:** How can you create a new thread in Java?
+    **Options:**
+    A) Using the `Thread` class and extending it
+    B) Using the `Thread` class and implementing the `Runnable` interface
+    C) Using the `Runnable` interface and extending it
+    D) Using the `Runnable` interface and implementing the `Thread` class
+    **Correct Answer:** B) Using the `Thread` class and implementing the `Runnable` interface
+    **Category:** Multithreading
+    **Difficulty Level:** Easy
+
+**Question:** What is a race condition in multithreading?
+    **Options:**
+    A) A condition where multiple threads finish execution simultaneously
+    B) A condition where multiple threads compete to access shared resources leading to unpredictable results
+    C) A condition where multiple threads are synchronized and block each other
+    D) A condition where a single thread executes faster than others
+    **Correct Answer:** B) A condition where multiple threads compete to access shared resources leading to unpredictable results
+    **Category:** Multithreading
+    **Difficulty Level:** Easy
+
+**Question:** What is the purpose of the `synchronized` keyword in Java?
+    **Options:**
+    A) To make a method thread-safe
+    B) To prevent a method from being overridden
+    C) To define a static method
+    D) To declare a class as final
+    **Correct Answer:** A) To make a method thread-safe
+    **Category:** Multithreading
+    **Difficulty Level:** Easy
+
+**Question:** What is thread synchronization in Java, and why is it important?
+    **Options:**
+    A) Ensuring that threads always execute in a specific order; it prevents deadlocks.
+    B) Coordinating the execution of threads to avoid conflicts and data corruption in shared resources.
+    C) Limiting the number of threads in a program to improve performance.
+    D) Dividing a program into multiple threads to enhance parallelism.
+    **Correct Answer:** B) Coordinating the execution of threads to avoid conflicts and data corruption in shared resources.
+    **Category:** Multithreading
+    **Difficulty Level:** Medium
+
+**Question:** What is the difference between the `wait()` and `sleep()` methods in Java?
+    **Options:**
+    A) `wait()` is used to pause a thread's execution, while `sleep()` releases the thread's lock.
+    B) `wait()` is used for inter-thread communication, while `sleep()` is used for time-based delays.
+    C) `wait()` can be called on any object, while `sleep()` is a method of the `Thread` class.
+    D) `wait()` is used for infinite delays, while `sleep()` is used for short delays.
+    **Correct Answer:** B) `wait()` is used for inter-thread communication, while `sleep()` is used for time-based delays.
+    **Category:** Multithreading
+    **Difficulty Level:** Medium
+
+**Question:** What is a deadlock in multithreading, and how can it be prevented?
+    **Options:**
+    A) A situation where multiple threads compete for the same resource; it can be prevented by increasing the number of threads.
+    B) A situation where a thread enters an infinite loop; it can be prevented by using proper synchronization.
+    C) A situation where two or more threads are blocked, waiting for each other to release a resource; it can be prevented by ensuring a consistent order of resource acquisition.
+    D) A situation where threads are terminated abruptly; it can be prevented by using thread priorities.
+    **Correct Answer:** C) A situation where two or more threads are blocked, waiting for each other to release a resource; it can be prevented by ensuring a consistent order of resource acquisition.
+    **Category:** Multithreading
+    **Difficulty Level:** Medium
+
+**Question:** What is the purpose of the `volatile` keyword when applied to a variable in multithreading?
+    **Options:**
+    A) It prevents the variable from being modified by multiple threads.
+    B) It ensures that the variable is initialized only once.
+    C) It makes the variable thread-local.
+    D) It ensures that changes to the variable are immediately visible to other threads.
+    **Correct Answer:** D) It ensures that changes to the variable are immediately visible to other threads.
+    **Category:** Multithreading
+    **Difficulty Level:** Medium
+
+ **Question:** What is the Java Memory Model (JMM), and how does it relate to multithreading?
+    **Options:**
+    A) It defines the structure of Java classes and objects; it has no relation to multithreading.
+    B) It specifies how memory is allocated and released in Java; it is essential for efficient multithreading.
+    C) It defines the order in which threads access shared memory; it ensures proper synchronization in multithreaded programs.
+    D) It specifies the Java bytecode format; it is used for cross-platform compatibility.
+    **Correct Answer:** C) It defines the order in which threads access shared memory; it ensures proper synchronization in multithreaded programs.
+    **Category:** Multithreading
+    **Difficulty Level:** Medium
+
+**Question:** What is the purpose of the `join()` method in Java threads?
+    **Options:**
+    A) To merge two or more threads into a single thread
+    B) To synchronize access to shared resources
+    C) To wait for a thread to finish its execution
+    D) To interrupt a thread's execution
+    **Correct Answer:** C) To wait for a thread to finish its execution
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** Explain the concept of thread priority in Java. How is it used to control thread execution?
+    **Options:**
+    A) Thread priority determines the number of threads that can run simultaneously.
+    B) Thread priority is used to set the order in which threads are executed.
+    C) Thread priority is used to allocate CPU time to threads.
+    D) Thread priority is used to determine the size of the thread's stack.
+    **Correct Answer:** C) Thread priority is used to allocate CPU time to threads.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** What are daemon threads in Java, and how do they differ from user threads?
+    **Options:**
+    A) Daemon threads are created by users, while user threads are created by the system.
+    B) Daemon threads run in the background and do not prevent the JVM from exiting, while user threads do.
+    C) Daemon threads have higher priority than user threads.
+    D) Daemon threads can access system resources, while user threads cannot.
+    **Correct Answer:** B) Daemon threads run in the background and do not prevent the JVM from exiting, while user threads do.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** What is the difference between thread pooling and creating new threads for each task in a multithreaded application?
+    **Options:**
+    A) Thread pooling reduces the number of available threads, while creating new threads increases the number.
+    B) Thread pooling can reuse threads for multiple tasks, while creating new threads creates a new thread for each task.
+    C) Thread pooling is less efficient than creating new threads.
+    D) Thread pooling is only suitable for single-threaded applications.
+    **Correct Answer:** B) Thread pooling can reuse threads for multiple tasks, while creating new threads creates a new thread for each task.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** Explain the concepts of race conditions and deadlocks in multithreading. Provide examples of each.
+    **Options:**
+    A) Race conditions occur when two threads try to access the same resource simultaneously, while deadlocks occur when a thread enters an infinite loop.
+    B) Race conditions occur when threads compete for access to shared resources, potentially leading to data corruption. Deadlocks occur when two or more threads are stuck, waiting for each other to release resources.
+    C) Race conditions and deadlocks are the same concepts and can be used interchangeably.
+    D) Race conditions and deadlocks are not relevant in multithreading.
+    **Correct Answer:** B) Race conditions occur when threads compete for access to shared resources, potentially leading to data corruption. Deadlocks occur when two or more threads are stuck, waiting for each other to release resources.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** What is the Java Memory Model (JMM), and how does it relate to multithreading? Explain the key components and principles.
+    **Options:**
+    A) The JMM specifies how memory is allocated and released in Java programs. It ensures that memory leaks are avoided.
+    B) The JMM defines the structure of Java classes and objects, making them thread-safe by default.
+    C) The JMM defines the rules for reading and writing shared memory in a multithreaded environment, ensuring proper synchronization and visibility of changes.
+    D) The JMM is a tool for profiling memory usage in Java applications.
+    **Correct Answer:** C) The JMM defines the rules for reading and writing shared memory in a multithreaded environment, ensuring proper synchronization and visibility of changes.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** Explain the concepts of thread starvation and thread livelock in multithreading. Provide examples of each.
+    **Options:**
+    A) Thread starvation occurs when a thread waits indefinitely for a resource, while thread livelock occurs when multiple threads compete for a resource.
+    B) Thread starvation occurs when a thread has low priority and rarely gets CPU time. Thread livelock occurs when two or more threads continuously yield to each other without making progress.
+    C) Thread starvation and thread livelock are the same concepts.
+    D) Thread starvation and thread livelock are not relevant in multithreading.
+    **Correct Answer:** B) Thread starvation occurs when a thread has low priority and rarely gets CPU time. Thread livelock occurs when two or more threads continuously yield to each other without making progress.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** Explain the concept of thread-local storage (TLS) in multithreading. How is it different from shared memory?
+    **Options:**
+    A) TLS is a technique for sharing data between multiple threads, while shared memory is used by a single thread.
+    B) TLS allows each thread to have its own independent copy of data, while shared memory is accessed by multiple threads concurrently.
+    C) TLS is a type of memory management technique, while shared memory is a synchronization technique.
+    D) TLS and shared memory are equivalent concepts.
+    **Correct Answer:** B) TLS allows each thread to have its own independent copy of data, while shared memory is accessed by multiple threads concurrently.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** How can you ensure thread safety in a multithreaded Java program? Discuss different synchronization mechanisms and their advantages and disadvantages.
+    **Options:**
+    A) Thread safety can be achieved by using the `volatile` keyword for all variables.
+    B) Thread safety can be achieved by using the `synchronized` keyword and locks to protect shared resources. Other mechanisms include atomic classes and thread-safe collections.
+    C) Thread safety is not achievable in Java due to its multithreading limitations.
+    D) Thread safety can be achieved by using thread priorities to control access to resources.
+    **Correct Answer:** B) Thread safety can be achieved by using the `synchronized` keyword and locks to protect shared resources. Other mechanisms include atomic classes and thread-safe collections.
+    **Category:** Multithreading
+    **Difficulty Level:** Hard
+
+**Question:** Explain the concept of a persistent data structure in detail. What are its key characteristics, and how does it differ from traditional data structures?
+    **Options:**
+    A) A persistent data structure allows for modification while preserving previous versions of the data. It differs from traditional data structures in its immutability and efficient version management.
+    B) A persistent data structure is a data structure with long-lasting durability, designed to store data indefinitely.
+    C) A persistent data structure is not relevant in modern computer science.
+    D) A persistent data structure is a read-only data structure with no modification capabilities.
+    **Correct Answer:** A) A persistent data structure allows for modification while preserving previous versions of the data. It differs from traditional data structures in its immutability and efficient version management.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+
+**Question:** Design a data structure that efficiently supports the following operations: `Insert(x)`, `Delete(x)`, and `FindMedian()`. The `FindMedian()` operation should return the median of the elements in the data structure in O(log n) time complexity.
+    **Options:**
+    A) Implement a specialized binary search tree with efficient insertion and deletion.
+    B) Use a balanced AVL tree to achieve O(log n) time complexity for all operations.
+    C) Employ a combination of min-heap and max-heap to maintain median values.
+    D) A persistent data structure is a read-only data structure with no modification capabilities.
+    **Correct Answer:** C) Employ a combination of min-heap and max-heap to maintain median values.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+ **Question:** Given a large stream of data that cannot fit into memory, design an algorithm to find the median of this data stream while minimizing memory usage. Explain your approach and its limitations.
+    **Options:**
+    A) Maintain a balanced binary search tree of fixed size in memory and use it to track the median efficiently.
+    B) Store the entire data stream on disk and use external sorting techniques to find the median.
+    C) Implement a data structure that samples a subset of the data stream and approximates the median.
+    D) Use a hash table to store distinct elements and compute the median from the hash table.
+    **Correct Answer:** C) Implement a data structure that samples a subset of the data stream and approximates the median.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+**Question:** Implement a circular queue data structure that can efficiently support both `enqueue` and `dequeue` operations in O(1) time complexity.
+    **Options:**
+    A) Use a doubly linked list to implement the circular queue and maintain pointers to the front and rear elements.
+    B) Implement the circular queue using a dynamic array and adjust the front and rear indices accordingly.
+    C) Utilize a stack-based approach to implement the circular queue with O(1) time complexity for all operations.
+    D) Circular queues cannot achieve O(1) time complexity for both `enqueue` and `dequeue` operations.
+    **Correct Answer:** B) Implement the circular queue using a dynamic array and adjust the front and rear indices accordingly.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+**Question:** Given two sorted lists, design an algorithm to merge them efficiently into a single sorted list with a time complexity of O(log(min(m,n))), where m and n are the lengths of the two lists.
+    **Options:**
+    A) Use a divide-and-conquer approach similar to merge sort, merging the two lists efficiently.
+    B) Iterate through both lists and merge them by comparing elements, achieving the desired time complexity.
+    C) Merge the lists using a priority queue to ensure O(log(min(m,n))) time complexity.
+    D) It is not possible to achieve O(log(min(m,n))) time complexity for this task.
+    **Correct Answer:** A) Use a divide-and-conquer approach similar to merge sort, merging the two lists efficiently.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+**Question:** Implement a stack data structure that supports the `push`, `pop`, `top`, and `getMin` operations, all in O(1) time complexity.
+    **Options:**
+    A) Use a doubly linked list to implement the stack and maintain a separate structure for tracking the minimum element.
+    B) Utilize a dynamic array with a separate min-stack to achieve O(1) time complexity for all operations.
+    C) Implement the stack using a balanced binary search tree (BST) with augmented properties for efficient operations.
+    D) It is not possible to achieve O(1) time complexity for all operations simultaneously.
+    **Correct Answer:** B) Utilize a dynamic array with a separate min-stack to achieve O(1) time complexity for all operations.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+
+**Question:** Design a data structure that supports the following operations: `insert(x)`, `delete(x)`, and `getRandom()`, where `getRandom()` returns a random element from the data structure with equal probability. All operations should run in O(1) time complexity.
+    **Options:**
+    A) Use a hash table to store elements with constant-time insertions and deletions, and maintain an array for random access.
+    B) Implement a specialized data structure that internally uses a balanced binary search tree (BST) and random sampling.
+    C) Employ a combination of a dynamic array and a hash table to achieve O(1) time complexity for all operations.
+    D) Achieving O(1) time complexity for all operations with random access is not possible.
+    **Correct Answer:** A) Use a hash table to store elements with constant-time insertions and deletions, and maintain an array for random access.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+**Question:** Implement a priority queue data structure using a binary heap, ensuring that both the `insert` and `extractMin` operations run in O(log n) time complexity.
+    **Options:**
+    A) Utilize a min-heap data structure to achieve O(log n) time complexity for `insert` and `extractMin` operations.
+    B) Use a balanced binary search tree (BST) with efficient insertion and deletion operations.
+    C) Implement a priority queue using a dynamic array with specialized algorithms for efficient insertions and extractions.
+    D) It is not possible to achieve O(log n) time complexity for both `insert` and `extractMin` operations.
+    **Correct Answer:** A) Utilize a min-heap data structure to achieve O(log n) time complexity for `insert` and `extractMin` operations.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+
+**Question:** Given a sequence of operations (`Push(x)`, `Pop()`, and `GetMinimum()`) on a stack, design a data structure and provide pseudocode for these operations to ensure that all of them run in O(1) time complexity.
+    **Options:**
+    A) Implement a stack using a doubly linked list and maintain a separate structure for tracking the minimum element.
+    B) Utilize a balanced binary search tree (BST) to implement the stack with augmented properties for minimum tracking.
+    C) Implement a specialized stack data structure using a combination of a dynamic array and a hash table.
+    D) It is not possible to achieve O(1) time complexity for all operations.
+    **Correct Answer:** A) Implement a stack using a doubly linked list and maintain a separate structure for tracking the minimum element.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+**Question:** Explain the concept of a self-balancing binary search tree (BST). Describe how it maintains balance and ensures efficient search, insertion, and deletion operations. Provide examples of popular self-balancing BSTs and their key properties.
+    **Options:**
+    A) A self-balancing BST is a binary tree that automatically adjusts its structure to ensure that it remains balanced. It uses rotation operations to maintain balance.
+    B) A self-balancing BST is a binary tree with randomized insertion and deletion strategies.
+    C) Self-balancing BSTs do not exist; they are a theoretical concept.
+    D) A self-balancing BST is a binary tree that only allows for balanced insertion and does not support deletion operations.
+    **Correct Answer:** A) A self-balancing BST is a binary tree that automatically adjusts its structure to ensure that it remains balanced. It uses rotation operations to maintain balance.
+    **Category:** Data Structures
+    **Difficulty Level:** Very Hard
+
+**Question:** Explain the concept of Java's reflection API. What are its use cases, and what are the potential drawbacks or security concerns when using reflection?
+    **Options:**
+    A) The reflection API allows Java programs to inspect and manipulate class objects, methods, and fields at runtime. It is useful for frameworks, serialization, and dynamic loading.
+    B) Reflection is a feature used for displaying detailed information about Java objects during debugging.
+    C) The reflection API is deprecated in modern Java versions and should not be used.
+    D) Reflection is a mechanism for creating new classes at runtime.
+    **Correct Answer:** A) The reflection API allows Java programs to inspect and manipulate class objects, methods, and fields at runtime. It is useful for frameworks, serialization, and dynamic loading.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Describe the concept of "checked" and "unchecked" exceptions in Java. Explain the differences between them and when it is appropriate to use each type of exception.
+    **Options:**
+    A) Checked exceptions are exceptions that occur during compile-time, and unchecked exceptions are runtime exceptions.
+    B) Checked exceptions are exceptions that must be caught or declared in the method signature, while unchecked exceptions do not require this.
+    C) Checked exceptions are thrown explicitly in code, while unchecked exceptions are thrown automatically by the Java Virtual Machine (JVM).
+    D) There is no distinction between checked and unchecked exceptions in Java.
+    **Correct Answer:** B) Checked exceptions are exceptions that must be caught or declared in the method signature, while unchecked exceptions do not require this.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Explain the purpose and usage of the `java.lang.instrument` package in Java. How does it enable bytecode manipulation, and what are the potential applications of bytecode instrumentation?
+    **Options:**
+    A) The `java.lang.instrument` package is used for defining custom class loaders in Java.
+    B) The `java.lang.instrument` package provides tools for generating code coverage reports for Java applications.
+    C) The `java.lang.instrument` package enables the modification of Java class files at runtime, allowing for various advanced applications such as profiling, monitoring, and code enhancement.
+    D) The `java.lang.instrument` package is used for creating custom annotations in Java.
+    **Correct Answer:** C) The `java.lang.instrument` package enables the modification of Java class files at runtime, allowing for various advanced applications such as profiling, monitoring, and code enhancement.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Describe the principles of object-oriented programming (OOP) and the key concepts of OOP in Java. Explain the benefits and limitations of OOP in software development.
+    **Options:**
+    A) OOP is a programming paradigm that emphasizes structured code and procedural programming. Key OOP concepts in Java include classes, inheritance, and polymorphism.
+    B) OOP is a programming paradigm that focuses on the use of objects and their interactions. Key OOP concepts in Java include encapsulation, inheritance, polymorphism, and abstraction.
+    C) OOP is a programming paradigm that exclusively uses functions and avoids the use of objects. Key OOP concepts in Java include lambda expressions and functional interfaces.
+    D) OOP is a programming paradigm that promotes unstructured code and avoids the use of classes and methods.
+    **Correct Answer:** B) OOP is a programming paradigm that focuses on the use of objects and their interactions. Key OOP concepts in Java include encapsulation, inheritance, polymorphism, and abstraction.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+
+**Question:** Explain the concept of "stream" in Java and how it is used for processing data in a functional programming style. Provide examples of common stream operations and their benefits.
+    **Options:**
+    A) Streams in Java are used for input and output operations with files and network resources.
+    B) Streams in Java represent a sequence of elements that can be processed in a functional style using various operations such as `map`, `filter`, and `reduce`. They provide concise and expressive code for data manipulation.
+    C) Streams in Java are deprecated and should not be used in modern programming.
+    D) Streams in Java are used for parallel execution of code blocks.
+    **Correct Answer:** B) Streams in Java represent a sequence of elements that can be processed in a functional style using various operations such as `map`, `filter`, and `reduce`. They provide concise and expressive code for data manipulation.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Describe the principles of Java's memory management, including the concepts of garbage collection, memory allocation, and memory leaks. How does Java handle memory efficiently, and what strategies can be employed to prevent memory leaks?
+    **Options:**
+    A) Java uses manual memory management, where developers are responsible for allocating and deallocating memory. Memory leaks occur when memory is not properly released.
+    B) Java uses automatic memory management with a garbage collector that identifies and reclaims memory that is no longer in use. Memory leaks are less common in Java compared to languages with manual memory management.
+    C) Java relies on reference counting to manage memory, which can lead to frequent memory leaks.
+    D) Java uses a stack-based memory management system with no garbage collection.
+    **Correct Answer:** B) Java uses automatic memory management with a garbage collector that identifies and reclaims memory that is no longer in use. Memory leaks are less common in Java compared to languages with manual memory management.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Explain the principles of multithreading in Java and the challenges associated with concurrent programming. Discuss Java's tools and constructs for managing multithreaded applications, including thread synchronization and thread safety.
+    **Options:**
+    A) Multithreading in Java is a technique for parallel execution of code blocks. Java provides no tools for managing multithreaded applications.
+    B) Multithreading in Java involves running multiple threads concurrently, and Java offers various tools and constructs for managing synchronization, thread safety, and inter-thread communication.
+    C) Multithreading is not supported in Java.
+    D) Multithreading in Java is achieved by creating separate processes for each thread.
+    **Correct Answer:** B) Multithreading in Java involves running multiple threads concurrently, and Java offers various tools and constructs for managing synchronization, thread safety, and inter-thread communication.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Explain the concept of the Java Native Interface (JNI) and its role in enabling Java programs to interact with native code and libraries. Provide examples of scenarios where JNI is useful and potential risks associated with its use.
+    **Options:**
+    A) JNI is a mechanism for running Java programs on different operating systems. It is used to achieve cross-platform compatibility.
+    B) JNI allows Java programs to call functions and use libraries written in native languages such as C and C++. It is useful for integrating Java applications with existing native code.
+    C) JNI is a deprecated feature in modern Java versions.
+    D) JNI is used for running Java applications in a virtualized environment.
+    **Correct Answer:** B) JNI allows Java programs to call functions and use libraries written in native languages such as C and C++. It is useful for integrating Java applications with existing native code.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Describe the concept of Java's memory model and the rules governing visibility, ordering, and synchronization in multithreaded Java applications. How does the Java Memory Model ensure proper synchronization and consistency?
+    **Options:**
+    A) The Java Memory Model is a set of guidelines for efficient memory allocation in Java applications. It focuses on optimizing memory usage.
+    B) The Java Memory Model defines how threads interact with memory and ensures proper visibility of shared data, ordering of operations, and synchronization through constructs like `volatile` and `synchronized`.
+    C) The Java Memory Model is a feature for managing memory leaks in Java applications.
+    D) The Java Memory Model provides a way to allocate memory directly on the stack.
+    **Correct Answer:** B) The Java Memory Model defines how threads interact with memory and ensures proper visibility of shared data, ordering of operations, and synchronization through constructs like `volatile` and `synchronized`.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
+**Question:** Explain the concept of Java's ClassLoader mechanism. How does it work, and what are its key responsibilities in the Java runtime environment? Discuss the different types of ClassLoaders in Java.
+    **Options:**
+    A) ClassLoader is a feature used for loading classes dynamically from the internet. It is mainly used for web-based Java applications.
+    B) ClassLoader is responsible for loading classes into memory, resolving class dependencies, and defining the classloading hierarchy. Java has three types of ClassLoaders: Bootstrap, Extension, and Application.
+    C) ClassLoader is a deprecated feature in modern Java versions.
+    D) ClassLoader is used for loading external libraries and dependencies into a Java application.
+    **Correct Answer:** B) ClassLoader is responsible for loading classes into memory, resolving class dependencies, and defining the classloading hierarchy. Java has three types of ClassLoaders: Bootstrap, Extension, and Application.
+    **Category:** Java
+    **Difficulty Level:** Very Hard
+
